@@ -81,7 +81,7 @@
 }
 
 .slide-rosa {
-    background-image: url(./images/imagem-um.png);
+    background-image: url(./scr/images/imagem-um.png);
 }
 
 .rosa {
@@ -89,7 +89,7 @@
 }
 
 .slide-amarelo {
-    background-image: url(./images/imagem-dois.png);
+    background-image: url(./scr/images/imagem-dois.png);
 }
 
 .amarelo {
@@ -97,7 +97,7 @@
 }
 
 .slide-marrom {
-    background-image: url(./images/imagem-tres.png);
+    background-image: url(./scr/images/imagem-tres.png);
 }
 
 .marrom {
@@ -105,7 +105,7 @@
 }
 
 .slide-azul {
-    background-image: url(./images/imagem-quatro.png);
+    background-image: url(./scr/images/imagem-quatro.png);
 }
 
 .azul {
