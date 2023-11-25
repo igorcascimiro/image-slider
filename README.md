@@ -22,3 +22,13 @@ Users should be able to:
 - HTML5
 - CSS3 custom properties
 - Javascript
+
+### Differences from the official resolution 
+
+At the official one, 3 different functions were used.
+- 1 to hide the 'slide' and show the next one (right arrow)
+- 1 to hide the 'slide' and show the previous one (left arrow)
+- 1 to give opacity to the arrows at the first and fourth slide.
+
+My original resolution was able to use only two, one for each arrow, and have the whole effect using only two extra lines of code on each one.
+
