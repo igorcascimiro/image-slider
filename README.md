@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Animação-desktop](https://github.com/igorcascimiro/image-slider/assets/138637092/8c23f70d-ca10-483c-9507-01c34472debb)
+![Animação-desktop](https://github.com/igorcascimiro/image-slider/assets/138637092/b5e4b07c-ee97-42e5-82f2-262f29256693)
 
 *As mentioned, because this is a Javascript exercise, there was no alternative screensize options made.*
 
