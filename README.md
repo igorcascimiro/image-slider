@@ -1,4 +1,4 @@
-# Private Exercise - Image slider page
+# Private Exercise - Image Slider Page
 The focus of this exercise was to learn and practice Javascript. I only decided to post it because I came to my own resolution which ended up being simpler than the one in the official class. 
 *So there's no alternate screensize options.*
 
@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshots
 
-![Animação-mobile](https://github.com/igorcascimiro/image-slider/assets/138637092/b5e4b07c-ee97-42e5-82f2-262f29256693)
+![Animação-desktop](https://github.com/igorcascimiro/image-slider/assets/138637092/8c23f70d-ca10-483c-9507-01c34472debb)
 
 *As mentioned, because this is a Javascript exercise, there was no alternative screensize options made.*
 
