@@ -1,6 +1,5 @@
-# Private Exercise - Image Slider Page
-The focus of this exercise was to learn and practice Javascript. I only decided to post it because I came to my own resolution which ended up being simpler than the one in the official class. 
-*So there's no alternate screensize options.*
+# Javascript Exercise - Image Slider Page
+The focus of this exercise was to learn and practice Javascript by developing an image, data and background slider. 
 
 ## Overview
 
@@ -15,20 +14,13 @@ Users should be able to:
 
 ![Animação-desktop](https://github.com/igorcascimiro/image-slider/assets/138637092/b5e4b07c-ee97-42e5-82f2-262f29256693)
 
-*As mentioned, because this is a Javascript exercise, there was no alternative screensize options made.*
+Other screensizes:
+
+![image](https://github.com/igorcascimiro/image-slider/assets/138637092/52ee8372-7c1d-43cc-b2a8-d8c2b2c042bf)
 
 ### Built with
 
 - HTML5
 - CSS3 custom properties
 - Javascript
-
-### Differences from the official resolution 
-
-At the official one, 3 different functions were used.
-- 1 to hide the 'slide' and show the next one (right arrow)
-- 1 to hide the 'slide' and show the previous one (left arrow)
-- 1 to give opacity to the arrows at the first and fourth slide.
-
-My original resolution was able to use only two, one for each arrow, and have the whole effect using only two extra lines of code on each one.
 
